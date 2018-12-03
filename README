@@ -1,0 +1,21 @@
+README
+
+1) Vytvořit v menu nový odkaz odkazující na http://cs.dbpedia.org/stats/ 
+2) Do kořenového adresáře webu stáhnout z GitHubu složky css, include, js, stats
+3) Ve /stats/ vytvořit soubor index.php a do <head></head> definovat:
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="/js/sgvizler.js"></script>
+	  <script type="text/javascript" src="/js/select-option.js"></script>
+	  <script type="text/javascript" src="/js/sgvizler-default.js"></script>
+		<script type="text/javascript" src="/js/id-show-hide-content.js"></script>
+    <script type="text/javascript" src="/js/id-show-hide-content.js"></script>
+    <link rel="stylesheet" href="/css/stats.css" type="text/css">
+    
+4) Na stránce /stats/index.php vložit do kódu 
+       <?php
+       include('loading-stats.php');
+       ?> 
+
+5) Po extrakci nové verze DBpedie spustit docker aplikaci na aktualizaci skriptu. Soubor statistics-data.txt nahrát do /stats/.
