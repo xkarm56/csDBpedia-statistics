@@ -1,0 +1,4534 @@
+[ {
+  "@graph" : [ {
+    "@id" : "http://cs.dbpedia.org/property/adresa",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "58411"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/branky",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25070"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/datumNarození",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "28911"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/do",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23188"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/délka",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "69032"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/góly",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23849"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/hrají",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "33729"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/idObjektu",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "41156"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/isbn",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "27812"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/jazyk",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "46806"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/jméno",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "185076"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/kluby",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "42158"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/místo",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45729"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/místoNarození",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "75011"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/místoÚmrtí",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "27520"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/nadmořskáVýška",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24789"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/název",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "171577"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/obec",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26654"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/obrázek",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "171191"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/od",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25691"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/okres",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22431"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/popis",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "27169"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/popisek",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "102094"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/početObyvatel",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "29698"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/početStran",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32591"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/psč",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "27145"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/příjmení",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "68985"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd1Score",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "43117"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd1Seed",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31742"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd1Team",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "148742"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd2Score",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "34275"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd2Seed",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25804"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd2Team",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "82026"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd3Score",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24647"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rd3Team",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "39308"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rok",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "84231"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/roky",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "39397"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/rozloha",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24918"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/soutěž",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30060"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/strana",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20363"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/strany",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22003"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/stát",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "40570"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/titul",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "86555"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/typ",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23701"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/velikostObrázku",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21745"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/vydavatel",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "70223"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/web",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "39254"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/wikiPageUsesTemplate",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2116280"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/wikidata",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "41085"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/země",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25572"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/zeměpisnáDélka",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "92505"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/zeměpisnáŠířka",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "92855"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/zápasy(góly)_",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24689"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/úřad",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26210"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/článek",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "28199"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/property/žánr",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "44668"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/19._století",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7151"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1918",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1070"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1925",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1063"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1928",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1110"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1930",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1171"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1932",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1061"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1936",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1088"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1937",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1101"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1938",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1209"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1939",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6334"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1444"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1940",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1150"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1941",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1198"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1942",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1258"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1943",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1210"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1944",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1485"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1945",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9519"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1289"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1946",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6312"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1201"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1947",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1229"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1948",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7585"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1121"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1949",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1105"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1950",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6280"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1175"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1951",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1127"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1952",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1117"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1956",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1106"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1960",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6943"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1069"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1964",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6182"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1967",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6365"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1968",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7236"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1076"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1969",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6956"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1970",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6618"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1971",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6580"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1974",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6186"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1975",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6218"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1976",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6864"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1979",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6181"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1980",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6878"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1981",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7016"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1982",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6452"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1983",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6424"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1984",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6649"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1985",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6777"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1986",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7203"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1987",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6557"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1988",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7535"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1989",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9120"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1990",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11470"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1991",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9443"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1992",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10505"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1993",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9335"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1994",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9079"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1995",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8725"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1996",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9523"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1997",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8742"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1998",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9678"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/1999",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10039"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/20._století",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7728"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2000",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10836"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2001",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10818"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2002",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11367"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2003",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10695"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2004",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11958"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2005",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "12579"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2006",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13805"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2007",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13269"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2008",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "12838"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2009",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11963"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2010",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "12612"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2011",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13229"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1105"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2012",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9474"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1222"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2012_v_hudbě",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2295"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2013",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8485"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1204"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2013_v_hudbě",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1093"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2014",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9358"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2014_v_hudbě",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1217"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2015",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6675"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2016",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6570"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1414"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2017",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1372"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/2018",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1253"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Allmusic",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26766"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Anglická_literatura",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1459"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Anglie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "70912"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8864"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Angličtina",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47316"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11829"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Argentina",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24840"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Athény",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22110"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Austrálie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "48528"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Barcelona",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19954"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Belgie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36592"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Berlín",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "56947"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Bratislava",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "52063"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Brazílie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36328"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Brno",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8144"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Budapešť",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "29832"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Bulharsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25736"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Bělehrad",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17699"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Carl_Linné",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "29760"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Cena_BAFTA_za_nejlepší_film",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1650"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Chicago",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "18986"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Chorvatsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24960"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/De_Jussieuův_systém",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1843"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Druhá_světová_válka",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "106806"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "15258"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Dunaj",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25051"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Dánsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31728"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Dějiny_Košic",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1104"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Dějiny_Česka",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1461"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Egypt",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26344"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Evropa",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "15429"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Evropská_silnice",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1542"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Evropská_unie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20816"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Finsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "33632"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Fotbal",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "56058"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9343"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Francie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "160144"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20018"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Francouzské_departementy",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7517"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Francouzský_kanton",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6784"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Francouzština",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26984"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6746"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/INSEE",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21400"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Indie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35272"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Irsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22856"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Itálie",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "108504"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13563"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Izrael",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "66768"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8346"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Jan_Nepomucký",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17446"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Jan_Pavel_II.",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "18330"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Japonsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "65296"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8162"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Jeruzalém",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "29447"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Ježíš_Kristus",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17770"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Jmeniny_v_Norsku",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1182"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kanada",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "62864"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7858"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kategorie:Muži",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "90009"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "90009"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kategorie:Přesměrování_z_vědeckého_jména",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11744"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kategorie:Ženy",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17612"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17612"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kategorie:Žijící_lidé",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49987"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49987"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Klasifikace_virů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1110"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kníže-biskup",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1212"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Komunistická_strana_Československa",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35010"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Kytara",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24395"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Labe",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31720"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Latina",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23092"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Lední_hokej",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19482"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Litva",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "18168"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Londýn",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "97713"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8883"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Los_Angeles",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "42449"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Madrid",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "18678"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Maďarsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "50992"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6374"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Mexiko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26456"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Milán",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19921"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Mnichov",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35607"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Morava",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6858"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Moskva",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "52650"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Napoleon_Bonaparte",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "18816"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/National_Hockey_League",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21131"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/New_York",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "80135"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7285"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Nizozemsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "44072"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Norsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "37269"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Nový_Zéland",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19536"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Německo",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "150544"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "18818"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1202"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Němčina",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23616"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Obec_(Francie)",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6249"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Občanská_demokratická_strana",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17770"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Paříž",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "124960"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11360"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1073"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Peking",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20603"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Petrohrad",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24410"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Polsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "92816"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11602"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Portrétní_fotografie",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1316"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Portugalsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25424"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Praha",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25522"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25522"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/První_písemná_zmínka",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6750"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/První_světová_válka",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "53711"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7673"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Rakousko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "71400"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8925"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Regiony_Francie",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7062"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Rock",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "28158"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Rumunsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32616"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Rusko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "101200"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "12650"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Scuderia_Ferrari",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1096"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_atentátů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1706"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_botaniků_a_mykologů_dle_zkratek",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1529"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_dinosaurů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1601"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_her_pro_MS-DOS",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3312"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_her_pro_PlayStation_1",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2625"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_hradů_a_zámků_v_Rakousku",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1379"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_hudebních_vydavatelství",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1122"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_klubů_v_nejvyšších_fotbalových_soutěžích_zemí_AFC",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1061"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_klubů_v_nejvyšších_fotbalových_soutěžích_zemí_CAF",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1260"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_kostelů_a_kaplí_v_litoměřické_diecézi",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2562"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_let",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2938"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_litevských_řek_(A–J)",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1757"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_litevských_řek_(K–P)",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1632"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_litevských_řek_(R–Ž)",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1947"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_malířů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1677"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_měst_v_Německu",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2094"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_německých_názvů_obcí_a_osad_v_Česku:_B",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1142"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_německých_názvů_obcí_a_osad_v_Česku:_H",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1094"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_německých_názvů_obcí_a_osad_v_Česku:_K",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1209"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_německých_názvů_obcí_a_osad_v_Česku:_S",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1256"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_oper",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1251"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_osobností_spojených_s_Prahou",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2658"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_planetek_M",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1190"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_přísně_chráněných_druhů_rostlin_podle_Bernské_úmluvy",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1215"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_rodů_čeledi_hvězdnicovitých",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1565"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_silnic_II._třídy_v_Česku",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1671"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_skladatelů_vážné_hudby:_B",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1395"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_skladatelů_vážné_hudby:_M",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1157"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_skladatelů_vážné_hudby:_S",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1371"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_skladeb_Antonia_Vivaldiho",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1292"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_světců_a_mučedníků_katolické_církve",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1164"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_světových_spisovatelů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1111"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_světských_říšských_knížat_a_knížectví",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1095"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_sítí_trolejbusové_dopravy_v_Evropě",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1215"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_vojevůdců",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1366"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_výrobců_užitkových_automobilů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1076"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_výskytů_a_použití_JHVH",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1610"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_zaniklých_sídel_v_Česku",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1370"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_zařízení_se_systémem_Android",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1338"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_zkratek_ve_výpočetní_technice",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1881"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_zoologů_dle_zkratek",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1165"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_coververzí_zahraničních_skladeb",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2053"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_filmových_lokací",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2394"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_filmů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2582"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_muzeí",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1416"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_skladatelů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1359"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_spisovatelů",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1911"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_videoher_podle_roku_vydání",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1132"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_českých_časopisů_-_dodatek",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1299"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_švýcarských_obcí",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2555"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Seznam_železničních_stanic_v_Česku",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2937"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Skotsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20264"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Slovensko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "118472"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14809"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Slovinsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19480"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Sovětský_svaz",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9115"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Spojené_království",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "111128"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13891"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Spojené_státy_americké",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "294040"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36755"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Srbsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21288"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Stockholm",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20042"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Středozemní_moře",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "28150"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Tel_Aviv",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25949"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Tenis",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19224"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Tokio",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "17754"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Turecko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32192"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Ukrajina",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "38424"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Univerzita_Karlova",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49896"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Varšava",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20944"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Vltava",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20657"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Vídeň",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "86053"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7823"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Všechnopárty",
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1338"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Čechy",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14434"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Česko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "261832"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32729"
+    } ],
+    "http://dbpedia.org/ontology/resourceOutDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2884"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Československo",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21018"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Česká_strana_sociálně_demokratická",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21140"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Čeština",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22368"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Čínská_lidová_republika",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24816"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Řecko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32048"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Řím",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "60676"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Římskokatolická_církev",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11645"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Španělsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "64384"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8048"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Švédsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "52872"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6609"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Švýcarsko",
+    "http://dbpedia.org/ontology/numberOfEntityIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49832"
+    } ],
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6229"
+    } ]
+  }, {
+    "@id" : "http://cs.dbpedia.org/resource/Živočichové",
+    "http://dbpedia.org/ontology/resourceInDegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7981"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Activity",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30888"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "155"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Actor",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "91162"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3932"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/AdministrativeRegion",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "52657"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2008"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Agent",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1975348"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "118503"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Aircraft",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21177"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1775"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Airline",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3618"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "221"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Airport",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4700"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "475"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Album",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "34832"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7545"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/AnatomicalStructure",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "109"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ArchitecturalStructure",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "111789"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14041"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Artery",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "109"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Artist",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "364557"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20932"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Astronaut",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8768"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "571"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Athlete",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "386053"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16349"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Automobile",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9838"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1287"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/BodyOfWater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94304"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6822"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Book",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20399"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2560"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Brewery",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "743"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "177"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Building",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "99560"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13162"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/CelestialBody",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4683"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ChemicalCompound",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "33531"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1544"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ChemicalElement",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23307"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "129"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ChemicalSubstance",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63800"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1956"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Church",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26676"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4451"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/City",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "474645"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19646"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Cleric",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45740"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2671"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ClericalAdministrativeRegion",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10607"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1921"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Colour",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1916"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Company",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "77968"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4071"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Country",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "444582"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "296"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Currency",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9122"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "171"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/CyclingCompetition",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "889"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Device",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24808"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "563"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Disease",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11875"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "358"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/District",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "42050"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "87"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/EducationalInstitution",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30106"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "574"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Eukaryote",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5424"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1009"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Event",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94643"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2037"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/FigureSkater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1068"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "99"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Film",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "59312"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6040"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/FilmFestival",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1741"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "40"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/FormulaOneRacer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16060"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "232"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Game",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "216"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "67"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Genre",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35555"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "283"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/GovernmentalAdministrativeRegion",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "42050"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "87"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/GrandPrix",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14251"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "314"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/HockeyTeam",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47122"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1419"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Holiday",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2044"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "53"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/IceHockeyLeague",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9110"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "64"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/IceHockeyPlayer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45286"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2321"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Image",
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "386550"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Infrastructure",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "12229"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "879"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Instrument",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19276"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "60"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Island",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14187"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1023"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Lake",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14247"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1926"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Language",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "81334"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "479"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Location",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1693556"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MeanOfTransportation",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45486"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4854"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MilitaryConflict",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "69489"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1387"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MilitaryPerson",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9487"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "671"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MilitaryVehicle",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2988"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "391"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Mineral",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6962"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "283"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MobilePhone",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "589"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "105"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Model",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1257"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "195"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Monarch",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "106793"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2892"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Motorcycle",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "653"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "263"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MotorsportRacer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16060"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "232"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Mountain",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32237"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4383"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MovieDirector",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3189"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "151"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Museum",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10986"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "959"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MusicFestival",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "824"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "105"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MusicGenre",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35555"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "283"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MusicalArtist",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "201934"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "12553"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/MusicalWork",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45384"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9214"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Name",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5765"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "799"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/NaturalPlace",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "126541"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11205"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Newspaper",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6581"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "139"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/OlympicResult",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3532"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2175"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Organisation",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "354821"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11249"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Parish",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10607"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1921"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/PeriodicalLiterature",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6581"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "139"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Person",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1620527"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "107254"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Place",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1693556"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "76150"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Planet",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4683"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Plant",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5424"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1009"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/PoliticalParty",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36054"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "631"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Politician",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "152949"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14095"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Pope",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31800"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1892"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/PopulatedPlace",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1427496"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47460"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ProgrammingLanguage",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3888"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "83"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ProtectedArea",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16094"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2631"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/PublicTransitSystem",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3618"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "221"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/RacingDriver",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16060"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "232"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/RailwayLine",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7529"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "404"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Region",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "153329"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9487"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/ReligiousBuilding",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26676"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4451"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/River",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63883"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4709"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/RouteOfTransportation",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7529"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "404"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Saint",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13940"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "779"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Scientist",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6203"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "525"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Sea",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16174"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "187"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Settlement",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "806238"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35694"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Ship",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5902"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "863"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Single",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8727"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1431"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Skier",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10648"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "602"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Skyscraper",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1686"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "497"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SoccerClub",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "100551"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3290"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SoccerLeagueSeason",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36819"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "937"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SoccerPlayer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "82270"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9400"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SocietalEvent",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94643"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2037"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Software",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14422"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2116"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Song",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1825"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "238"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Spacecraft",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4928"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "275"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Species",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5424"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1009"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SpeedSkater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7669"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "623"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Sport",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30672"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "88"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportCompetitionResult",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3532"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2175"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportsClub",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "100551"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3290"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportsEvent",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22589"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "505"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportsLeague",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9110"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "64"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportsSeason",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36819"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "937"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportsTeam",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47122"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1419"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/SportsTeamSeason",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36819"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "937"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Stadium",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9295"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "618"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Stream",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63883"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4709"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Street",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9160"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "960"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/TelevisionShow",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31427"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1756"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/TennisPlayer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "197200"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1165"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/TimeInterval",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2044"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/TopicalConcept",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35555"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "283"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/University",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30106"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "574"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Venue",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9295"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "618"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/VideoGame",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5245"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1035"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/VolleyballPlayer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "130"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "29"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Weapon",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4943"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "398"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Website",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8425"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "221"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/WinterSportPlayer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "64671"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3645"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Work",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "185950"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22046"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/WorldHeritageSite",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6953"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "805"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/Writer",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "131587"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8535"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/WrittenWork",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26980"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2699"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/abstract",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "390375"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/activeYearsEndDateMgr",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22909"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/address",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22071"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/birthPlace",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "79523"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/capital",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24452"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/club",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "39775"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/country",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "53335"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/deathPlace",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "27787"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/elevation",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "25770"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/galleryItem",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "130713"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/goalsInLeague",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24363"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/politicalFunction",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "24608"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/populationTotal",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31147"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/postalCode",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26261"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/starring",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26797"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/thumbnail",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "217936"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageDisambiguates",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "140719"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageExternalLink",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "537748"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageID",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "837930"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageLength",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "683202"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageOutDegree",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "683202"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageRedirects",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "269358"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageRevisionID",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "837930"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageWikiLink",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "15229423"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/wikiPageWikiLinkText",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3200221"
+    } ]
+  }, {
+    "@id" : "http://dbpedia.org/ontology/years",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "43203"
+    } ]
+  }, {
+    "@id" : "http://purl.org/dc/elements/1.1/language",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "683202"
+    } ]
+  }, {
+    "@id" : "http://purl.org/dc/elements/1.1/rights",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "386550"
+    } ]
+  }, {
+    "@id" : "http://purl.org/dc/terms/subject",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1809852"
+    } ]
+  }, {
+    "@id" : "http://purl.org/ontology/bibo/Book",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20399"
+    } ]
+  }, {
+    "@id" : "http://schema.org/AdministrativeArea",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "52657"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Airport",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4700"
+    } ]
+  }, {
+    "@id" : "http://schema.org/BodyOfWater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94304"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Book",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20399"
+    } ]
+  }, {
+    "@id" : "http://schema.org/City",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "474645"
+    } ]
+  }, {
+    "@id" : "http://schema.org/CollegeOrUniversity",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30106"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Country",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "444582"
+    } ]
+  }, {
+    "@id" : "http://schema.org/CreativeWork",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "185950"
+    } ]
+  }, {
+    "@id" : "http://schema.org/EducationalOrganization",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30106"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Event",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94643"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Festival",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2565"
+    } ]
+  }, {
+    "@id" : "http://schema.org/LakeBodyOfWater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14247"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Language",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "81334"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Mountain",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32237"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Movie",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "59312"
+    } ]
+  }, {
+    "@id" : "http://schema.org/MusicAlbum",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "34832"
+    } ]
+  }, {
+    "@id" : "http://schema.org/MusicGroup",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "201934"
+    } ]
+  }, {
+    "@id" : "http://schema.org/MusicRecording",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1825"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Organization",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "354821"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Person",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1620527"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Place",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1693556"
+    } ]
+  }, {
+    "@id" : "http://schema.org/Product",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "64124"
+    } ]
+  }, {
+    "@id" : "http://schema.org/RiverBodyOfWater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63883"
+    } ]
+  }, {
+    "@id" : "http://schema.org/SeaBodyOfWater",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16174"
+    } ]
+  }, {
+    "@id" : "http://schema.org/SportsEvent",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "22589"
+    } ]
+  }, {
+    "@id" : "http://schema.org/SportsTeam",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47122"
+    } ]
+  }, {
+    "@id" : "http://schema.org/StadiumOrArena",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9295"
+    } ]
+  }, {
+    "@id" : "http://schema.org/WebSite",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8425"
+    } ]
+  }, {
+    "@id" : "http://www.georss.org/georss/point",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49224"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30888"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1975348"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#ChemicalObject",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63800"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35555"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94643"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1620527"
+    } ]
+  }, {
+    "@id" : "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "354821"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3554151"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2000/01/rdf-schema#comment",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "391648"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "842581"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2002/07/owl#Thing",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4305930"
+    } ],
+    "http://dbpedia.org/ontology/numberOfEntitiesOfClass" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "232504"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "794114"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49223"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#long",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "49224"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2004/02/skos/core#Concept",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1810053"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2004/02/skos/core#broader",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "301605"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "134679"
+    } ]
+  }, {
+    "@id" : "http://www.w3.org/ns/prov#wasDerivedFrom",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "841505"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q10833314",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "197200"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1092563",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6581"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11032",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6581"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11173",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "33531"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11303",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1686"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11410",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "216"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11424",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "59312"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11436",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "21177"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11446",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5902"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q116",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "106793"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11631",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8768"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q11774891",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45286"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q12136",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "11875"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1248784",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4700"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q12973014",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47122"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q13219587",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1068"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q134556",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8727"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1370598",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26676"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1445650",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "2044"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q15117302",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "130"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q15416",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31427"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1656682",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "94643"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q16970",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26676"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q17517",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "589"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q188451",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "35555"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q19088",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5424"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1914636",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30888"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q19546",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "31800"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q215627",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1620527"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q2188189",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "45384"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q220505",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1741"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q225829",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "19276"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q23397",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14247"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q23442",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14187"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q234460",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "26980"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q2385804",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30106"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q24229398",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1975348"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q2526255",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3189"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q315",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "81334"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q33506",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10986"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q33999",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "91162"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q34493",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "653"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q3455524",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "153329"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q349",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30672"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q36180",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "131587"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q378622",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16060"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q386724",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "185950"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q3918",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "30106"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q40218",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4928"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q4022",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63883"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q41176",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "99560"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q4270517",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10648"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q43115",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "13940"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q43229",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "354821"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q4498974",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "47122"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q4610556",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1257"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q46970",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3618"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q473972",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "16094"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q47521",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "63883"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q476028",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "100551"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q482994",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "34832"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q4830453",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "77968"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q483501",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "364557"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q486972",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "806238"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q4936952",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "109"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q5",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1620527"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q515",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "474645"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q571",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "20399"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q623109",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9110"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q6256",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "444582"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q634",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4683"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q7278",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "36054"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q728",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "4943"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q728937",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7529"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q7397",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "14422"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q756",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5424"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q7889",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5245"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q79007",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "9160"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q7946",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6962"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q82799",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "5765"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q82955",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "152949"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q8502",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "32237"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q868557",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "824"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q901",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6203"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q9143",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "3888"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q9259",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "6953"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q937857",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "82270"
+    } ]
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q9655",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "109"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Person",
+    "http://dbpedia.org/ontology/numberOfClassIndegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1620527"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/depiction",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "217910"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/homepage",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "53910"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "683202"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/name",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "175109"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "683202"
+    } ]
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/thumbnail",
+    "http://dbpedia.org/ontology/numberOfUseOfProperty" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "193302"
+    } ]
+  }, {
+    "@id" : "https://cs.dbpedia.org",
+    "http://dbpedia.org/ontology/numberOfClasses" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "765"
+    } ],
+    "http://dbpedia.org/ontology/numberOfClassesWithResource" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "140"
+    } ],
+    "http://dbpedia.org/ontology/numberOfDisambiguates" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "23297"
+    } ],
+    "http://dbpedia.org/ontology/numberOfOutdegree" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "15229423"
+    } ],
+    "http://dbpedia.org/ontology/numberOfPredicates" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8729"
+    } ],
+    "http://dbpedia.org/ontology/numberOfProperties" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "10829"
+    } ],
+    "http://dbpedia.org/ontology/numberOfPropertiesUsed" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "8523"
+    } ],
+    "http://dbpedia.org/ontology/numberOfRedirectedResource" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "267706"
+    } ],
+    "http://dbpedia.org/ontology/numberOfResource" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "842581"
+    } ],
+    "http://dbpedia.org/ontology/numberOfResourceWithType" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "232504"
+    } ],
+    "http://dbpedia.org/ontology/numberOfTriples" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "43218011"
+    } ],
+    "http://dbpedia.org/ontology/numberOfUniqeResources" : [ {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "574875"
+    } ]
+  } ],
+  "@id" : "http://localhost/default"
+} ]
