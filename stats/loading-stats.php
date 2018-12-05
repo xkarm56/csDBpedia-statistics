@@ -1234,7 +1234,7 @@ dataset:<input type="radio" id="dataset"  onclick="showStats()" name="radio-chec
 
 
 <script type="text/javascript" src="/js/class-second-option.js"></script>
-<script type="text/javascript" src="/js/cdraw-table-for-select-of-class.js"></script>
+<script type="text/javascript" src="/js/draw-table-for-select-of-class.js"></script>
 <script type="text/javascript" src="/js/draw-table-class-select-online.js"></script>	
 <script type="text/javascript" src="/js/show-single-number-stats-offline.js"></script>	
 <script type="text/javascript" src="/js/online-or-offline.js"></script>	
